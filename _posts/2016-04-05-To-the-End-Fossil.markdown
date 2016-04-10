@@ -38,11 +38,5 @@ This mixing represents the way working class communities were often dominated by
 ![Degree Show](/imgs/DegreeShow2.jpg)
 ![Fossil Arrangement](/imgs/FossilArrangement.jpg)
 ![Coal Print](/imgs/CoalPrintDetail.jpg)
-![Coal Print](/imgs/CoalPrintDetail.jpg)
 ![Degree Show](/imgs/DegreeShow.jpg)
 ![Degree Show](/imgs/DegreeShow2.jpg)
-
-
-
-
-

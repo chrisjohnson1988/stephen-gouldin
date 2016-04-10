@@ -15,30 +15,53 @@ header.site-header {
   }
 }
 
-.project {
-  float:    left;
-  margin:   15px;
-  height:   405px;
-  width:    215px;
-  position: relative;
+.projects { 
+  text-align: center;
+  .project {
+    display:  inline-block;
+    margin:   15px;
+    height:   405px;
+    width:    215px;
+    position: relative;
 
-  figure {
-    position:      absolute;
-    bottom:        0;
-    width:         200px;
-    padding:       15px;
-    box-shadow:    0 0 4px rgba(0, 0, 0, .1);
-    background:    #f9f9f9;
-    border-bottom: #eee 1px solid;
-    
-    figcaption { 
-      margin:      15px 0 0;
-      color:       #333;
-      font-size:   13px;
-      line-height: 1.63em;
-      text-align:  center;
+    figure {
+      position: absolute;
+      bottom:   0;
+      width:    200px;
     }
   }
 }
 
-img { width: 100%; }
+
+figure.polaroid {
+  box-shadow:    0 0 4px rgba(0, 0, 0, .1);
+  background:    #f9f9f9;
+  border-bottom: #eee 1px solid;
+  padding:       15px;
+  
+  figcaption { 
+    margin:      15px 0 0;
+    color:       #333;
+    font-size:   13px;
+    line-height: 1.63em;
+    text-align:  center;
+  }
+}
+
+img, figure.polaroid {
+  display: block;
+  max-width: 430px;
+  margin:    2em auto;
+  width:     100%;
+}
+
+figure.large {
+  img { max-width: 100%; }
+
+  figcaption {
+    margin-top:  -2em;
+    float:       right;
+    font-weight: bold;
+    font-style:  italic;
+  }
+}

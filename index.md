@@ -2,8 +2,7 @@
 layout: default
 title:  Welcome
 ---
-![SilverBirchManvers](/imgs/SilverBirchManvers.jpg "Someday it will come")
-*Someday it will come*
+{% include figure.html url="/imgs/SilverBirchManvers.jpg" description="Someday it will come" class="large" %}
 
 # Biography
 Stephen grew up in a South Yorkshire coal mining community and followed local tradition by entering an engineering apprenticeship after leaving school. After studying at night school he eventually left work to undertake a mechanical engineering degree. The majority of his working life has been as a professional engineer within many of the heavy engineering companies synonymous with Yorkshire’s industrial belt.

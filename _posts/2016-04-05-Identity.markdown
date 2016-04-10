@@ -4,17 +4,15 @@ permalink: Identity
 icon:      /imgs/Rude.jpg
 layout:    default
 ---
-![Sheep](/imgs/Sheep.jpg)
-Sheep do not care what you look like
 
-![Some People](/imgs/Some-People.jpg)
-Some people who usually acknowledge me don't. They seem to see me as a different person.
+> “Every time you open your wardrobe, you look at your clothes and you wonder what you are going to wear. What you are really saying is ‘Who am I going to be today?’ “
 
-![Fun](/imgs/Fun.jpg)
-Today is my Birthday. I'm having such FUN!
+Fay Weldon, The New Yorker, 26th June 1995.
 
-![People People](/imgs/People-People.jpg)
-people, people, strangers. No one smiles nor acknowledges me; unless they are employed to do so.
+{% include figure.html class="polaroid" url="/imgs/Sheep.jpg"         description="Sheep do not care what you look like" %}
+{% include figure.html class="polaroid" url="/imgs/Some-People.jpg"   description="Some people who usually acknowledge me don't. They seem to see me as a different person." %}
+{% include figure.html class="polaroid" url="/imgs/Fun.jpg"           description="Today is my Birthday. I'm having such FUN!" %}
+{% include figure.html class="polaroid" url="/imgs/People-People.jpg" description="people, people, strangers. No one smiles nor acknowledges me; unless they are employed to do so." %}
 
 This project was first exhibited at the Student Fringe at The Northern Art Show
 Harrogate, March 2008.
