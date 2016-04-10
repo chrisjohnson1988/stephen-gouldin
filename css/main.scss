@@ -1,0 +1,61 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Our variables
+$navbar-height: 130px;
+$background-color: #e7e7e7;
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "layout"
+;
+
+
+body {
+
+  background-color: #e7e7e7; 
+  color: #555;
+  font-family: "Lato", sans-serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin-top: $navbar-height + 20px;
+}
+
+
+.navbar {
+  height: $navbar-height;
+  &.navbar-default { background-color: #e7e7e7; }
+  
+  a.navbar-brand {
+    font-size: 24px;
+    font-weight: 300;
+    padding: 16px 15px;
+    line-height: 48px;
+    height: 80px;
+  }
+  .nav a {
+    padding-left: 0;
+    margin-right: 2em;
+  }
+
+  .navbar-nav .active a {
+    &, &:hover { background-color: transparent; }
+    font-weight: bold;
+  }
+}
+
+.title {
+  font-size:      40px;
+  font-weight:    300;
+  line-height:    1.1;
+  padding-bottom: 36px;
+  border-bottom:  1px solid #e7e7e7;
+}
+.container {
+  padding: 0 3em;
+  background: #fff;
+  border-bottom: 1px solid $background-color;
+}
