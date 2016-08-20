@@ -1,0 +1,8 @@
+.logo {
+  padding:     0.5em;
+  font-weight: 300;
+  span  { display: inline-block; }
+  small { color: #333; font-size: 18%; }
+
+  &.navbar-brand small { font-size: 70%; }
+}
