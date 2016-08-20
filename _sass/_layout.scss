@@ -1,67 +1,24 @@
-header.site-header {
-  line-height:56px;
-
-  a.site-title {
-    line-height: 56px;
-    font-size:   x-large;
-    &:hover, &:link, &:active, &:visited { 
-      color: black;
-      text-decoration: none;
-    } 
-  }
-  nav.site-nav a { 
-    color: grey;
-    padding-right: 3em;
-  }
-}
-
-.projects { 
-  text-align: center;
+//Projects slider
+#projects { 
+  margin-bottom: 50px;
   .project {
-    display:  inline-block;
-    margin:   15px;
+    $margin:  15px;
+    margin:   $margin;
     height:   405px;
-    width:    215px;
     position: relative;
 
-    figure {
-      position: absolute;
-      bottom:   0;
-      width:    200px;
-    }
+    img { height:  100%; }
+    em.caption { right: $margin*2;} 
   }
 }
 
-
-figure.polaroid {
-  box-shadow:    0 0 4px rgba(0, 0, 0, .1);
-  background:    #f9f9f9;
-  border-bottom: #eee 1px solid;
-  padding:       15px;
-  
-  figcaption { 
-    margin:      15px 0 0;
-    color:       #333;
-    font-size:   13px;
-    line-height: 1.63em;
-    text-align:  center;
-  }
-}
-
-img, figure.polaroid {
-  display: block;
-  max-width: 430px;
-  margin:    2em auto;
-  width:     100%;
-}
-
-figure.large {
-  img { max-width: 100%; }
-
-  figcaption {
-    margin-top:  -2em;
-    float:       right;
-    font-weight: bold;
-    font-style:  italic;
-  }
+//Caption attached to an image
+em.caption {
+  position:         absolute;
+  bottom:           0;
+  right:            0;
+  font-weight:      bold;
+  background-color: rgba(0, 0, 0, 0.6);
+  color:            white;
+  padding:          2px 8px;
 }
