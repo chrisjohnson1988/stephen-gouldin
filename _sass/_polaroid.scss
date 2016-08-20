@@ -1,0 +1,21 @@
+figure.polaroid {
+  box-shadow:    0 0 4px rgba(0, 0, 0, .1);
+  background:    #f9f9f9;
+  border-bottom: #eee 1px solid;
+  padding:       15px;
+  
+  figcaption { 
+    margin:      15px 0 0;
+    color:       #333;
+    font-size:   13px;
+    line-height: 1.63em;
+    text-align:  center;
+  }
+
+  &, img {
+    display:   block;
+    max-width: 550px;
+    margin:    2em auto;
+    width:     100%;
+  }
+}
