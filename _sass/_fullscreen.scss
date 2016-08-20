@@ -1,0 +1,30 @@
+@import "responsive_font";
+
+.fullscreen {
+  min-height: 100%;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#welcome {
+  position:         relative;
+  overflow:         hidden;
+  background-image: url("/imgs/SilverBirchManvers.jpg");
+
+  div {
+    @include responsive-font(12vw, 20px, 100px);
+
+    position:         absolute;
+    left:             5%;
+    top:              20%;
+    padding:          0.5em;
+    color:            #000;
+    font-weight:      300;
+    background-color: rgba(255,255,255,0.4);
+
+    small { color: #333; font-size: 18%; }
+  }
+}

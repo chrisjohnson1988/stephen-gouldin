@@ -1,0 +1,8 @@
+{
+  "name": "Stephen Gouldin - A Yorkshire based artist",
+  "private": true,
+  "dependencies": {
+    "FilmRoll": "0.1.17",
+    "jquery": "1.10.1"
+  }
+}

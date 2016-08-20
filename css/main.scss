@@ -3,60 +3,18 @@
 ---
 @charset "utf-8";
 
-// Our variables
-$navbar-height: 130px;
-
-
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "layout"
-;
+@import "layout";
+@import "fullscreen";
 
 
-body {
+body, html {
   background:  #fff;
   color:       #555;
   font-family: "Roboto", sans-serif;
-  margin-top:  80px;
-  @media (min-width: 768px) { 
-    margin-top:  $navbar-height + 40px;
-  }
+  height:      100%;
 }
 
-
-.navbar {
-  &.navbar-default { background-color: #fff; }
-  
-  a.navbar-brand {
-    font-size:   16px;
-    font-weight: 300;
-    padding:     16px 15px;
-    line-height: 48px;
-    height:      80px;
-  }
-  
-  @media (min-width: 768px) { 
-    a.navbar-brand {
-      font-size:   42px;
-    }
-    height: $navbar-height;
-  }
-
-  .navbar-header { float:none; }
-  .navbar-nav .active a {
-    background-color: transparent;
-    font-weight:bold;
-  }
-}
-
-.title {
-	color:          #777;
-    font-size:      34px;
-    font-weight:    300;
-    line-height:    1.1;
-    padding-bottom: 36px;
-    border-bottom:  1px solid #eee;
-}
 
 footer {
   border-top:     1px solid #eee;
