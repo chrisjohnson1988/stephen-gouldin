@@ -1,9 +1,9 @@
 ---
 title:     "Clarisse"
 permalink: Clarisse
-icon:      /imgs/Clarisse2.jpg
+icon:      imgs/Clarisse2.jpg
 layout:    default
 ---
-![Clarisse](/imgs/Clarisse.jpg)
-![Clarisse2](/imgs/Clarisse2.jpg)
-![Clarisse3](/imgs/Clarisse3.jpg)
+![Clarisse](imgs/Clarisse.jpg)
+![Clarisse2](imgs/Clarisse2.jpg)
+![Clarisse3](imgs/Clarisse3.jpg)

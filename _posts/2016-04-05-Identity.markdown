@@ -1,7 +1,7 @@
 ---
 title:     "Identity"
 permalink: Identity
-icon:      /imgs/Rude.jpg
+icon:      imgs/Rude.jpg
 layout:    default
 ---
 
@@ -9,12 +9,12 @@ layout:    default
 
 Fay Weldon, The New Yorker, 26th June 1995.
 
-{% include figure.html class="polaroid" url="/imgs/Sheep.jpg"         description="Sheep do not care what you look like" %}
-{% include figure.html class="polaroid" url="/imgs/Some-People.jpg"   description="Some people who usually acknowledge me don't. They seem to see me as a different person." %}
-{% include figure.html class="polaroid" url="/imgs/Fun.jpg"           description="Today is my Birthday. I'm having such FUN!" %}
-{% include figure.html class="polaroid" url="/imgs/People-People.jpg" description="people, people, strangers. No one smiles nor acknowledges me; unless they are employed to do so." %}
+{% include figure.html class="polaroid" url="imgs/Sheep.jpg"         description="Sheep do not care what you look like" %}
+{% include figure.html class="polaroid" url="imgs/Some-People.jpg"   description="Some people who usually acknowledge me don't. They seem to see me as a different person." %}
+{% include figure.html class="polaroid" url="imgs/Fun.jpg"           description="Today is my Birthday. I'm having such FUN!" %}
+{% include figure.html class="polaroid" url="imgs/People-People.jpg" description="people, people, strangers. No one smiles nor acknowledges me; unless they are employed to do so." %}
 
 This project was first exhibited at the Student Fringe at The Northern Art Show
 Harrogate, March 2008.
 
-![Student Fringe](/imgs/Student-Fringe.jpg)
+![Student Fringe](imgs/Student-Fringe.jpg)

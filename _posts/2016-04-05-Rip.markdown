@@ -1,8 +1,8 @@
 ---
 title:     "Rip."
 permalink: Rip
-icon:      /imgs/RIPfull.jpg
+icon:      imgs/RIPfull.jpg
 layout:    default
 ---
-![RIP](/imgs/RIPfull.jpg)
-![Material Matters](/imgs/Material-Matters.jpg)
+![RIP](imgs/RIPfull.jpg)
+![Material Matters](imgs/Material-Matters.jpg)

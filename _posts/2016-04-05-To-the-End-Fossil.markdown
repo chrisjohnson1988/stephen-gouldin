@@ -1,7 +1,7 @@
 ---
 title:     "To the End / Fossil"
 permalink: To-the-End_Fossil
-icon:      /imgs/FreeRange2.jpg
+icon:      imgs/FreeRange2.jpg
 layout:    default
 ---
 
@@ -34,9 +34,9 @@ These two pieces have become one. I have grouped the together to reflect the win
 
 This mixing represents the way working class communities were often dominated by the industries they grew up around, work and everyday existence permanently intertwined. The heaps of tea that gradually grow as the tea flows represents the slag heaps of my home town which had grown over generations, time locking-in the coal existence into the community’s collective memory, engrained within each member.
 
-![Free Range](/imgs/FreeRange2.jpg)
-![Degree Show](/imgs/DegreeShow2.jpg)
-![Fossil Arrangement](/imgs/FossilArrangement.jpg)
-![Coal Print](/imgs/CoalPrintDetail.jpg)
-![Degree Show](/imgs/DegreeShow.jpg)
-![Degree Show](/imgs/DegreeShow2.jpg)
+![Free Range](imgs/FreeRange2.jpg)
+![Degree Show](imgs/DegreeShow2.jpg)
+![Fossil Arrangement](imgs/FossilArrangement.jpg)
+![Coal Print](imgs/CoalPrintDetail.jpg)
+![Degree Show](imgs/DegreeShow.jpg)
+![Degree Show](imgs/DegreeShow2.jpg)
