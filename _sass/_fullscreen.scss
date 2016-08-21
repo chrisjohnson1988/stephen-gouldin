@@ -16,7 +16,7 @@
 
   div {
     @extend .logo;
-    @include responsive-font(12vw, 20px, 100px);
+    @include responsive-font(11vw, 20px, 95px);
 
     position:         absolute;
     left:             5%;
