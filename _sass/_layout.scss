@@ -2,12 +2,20 @@
 #projects { 
   margin-bottom: 50px;
   .project {
-    $margin:  5px;
-    margin:   $margin;
-    height:   405px;
-    position: relative;
+    $margin:   6px;
+    margin:    $margin;
+    height:    405px;
+    position:  relative;
 
-    img { height:  100%; }
+    // Create inline block helper to position the image in the middle
+    span.helper {
+      display:     inline-block;
+      height:      100%;
+      margin-left: -$margin;
+    }
+    span.helper, img { vertical-align: middle;}
+    
+    img { max-height: 100%; max-width:100%; }
     em.caption { right: $margin*2;} 
   }
 }
