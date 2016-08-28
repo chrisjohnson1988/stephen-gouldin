@@ -16,12 +16,13 @@
 
   div {
     @extend .logo;
-    @include responsive-font(11vw, 20px, 95px);
+    @include responsive-font(15vw, 20px, 50px);
 
     position:         absolute;
     left:             5%;
-    top:              20%;
+    top:              10%;
     color:            #000;
     background-color: rgba(255,255,255,0.4);
+    small { white-space: nowrap; }
   }
 }
