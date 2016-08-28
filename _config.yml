@@ -9,7 +9,7 @@
 title:   <span>STEPHEN GOULDIN</span><small>Yorkshire based Artist</small>
 baseurl: "/stephen-gouldin"
 url:     "http://www.gouldin.online"
-email:   "contact@stephengouldin.net"
+email:   "contact@gouldin.online"
 
 # Build settings
 markdown: kramdown
