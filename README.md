@@ -8,7 +8,7 @@ The project pages are defined in the `_posts` directory, and images are stored w
 
 ## Creating Pages
 
-To create a new project page, you have to add a new file in the `_posts` directory. The filename is important, and must conform to the following format: **<date>-<title>.markdown** (e.g. 2016-04-05-Clarisse.markdown). The contents of this file define the contents of the page along with some header information about the page (e.g. title, icon in the front page carousel. etc.). The structure of a file would look something like this:
+To create a new project page, you have to add a new file in the `_posts` directory. The filename is important, and must conform to the following format: **{date}-{title}.markdown** (e.g. 2016-04-05-Clarisse.markdown). The contents of this file define the contents of the page along with some header information about the page (e.g. title, icon in the front page carousel. etc.). The structure of a file would look something like this:
 
     ---
     title:     "I am the title of a new page"
