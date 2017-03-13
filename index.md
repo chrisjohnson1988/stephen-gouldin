@@ -10,7 +10,8 @@ More recently he studied Fine Art at Leeds College of Art graduating in 2013. He
 
 Stephen’s work has its roots in his industrial heritage and reflects the everyday routine of working life, the joys and struggles of working class communities. He tends to work to a brief which reflects his own working life experience. Responding to a situation or particular site of interest. Output is as varied as his subjects and includes sculpture, collage, printmaking, photography and video and often incorporates commonplace materials, such as coal and tea, and everyday objects like boots, shoes and curtains.
 
-# Group Exhibitions
+# Exhibitions
+- 2016 -17 Pink Slip, joint show with Prof. Andrew Havenhand - The Studio Theatre Gallery, LCAD, Leeds   
 - 2015  The Wakefield Effect – The Art House, Wakefield
 - 2013  Class-ification – Leeds College of Art
 - 2013  Free Range – Truman Brewery, London
