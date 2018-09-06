@@ -1,6 +1,6 @@
 # Stephen Gouldin - A Yorkshire based artist
 
-This is the software repository used for the personal website of [Stephen Gouldin](http://www.gouldin.online/). It is built using [Jekyll](https://jekyllrb.com/)
+This is the software repository used for the personal website of [Stephen Gouldin](http://www.gouldin.net/). It is built using [Jekyll](https://jekyllrb.com/)
 
 ## Parts of the project to focus on
 
