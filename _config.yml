@@ -8,8 +8,8 @@
 # Site settings
 title:   <span>STEPHEN GOULDIN</span><small>Yorkshire based Artist</small>
 baseurl: ""
-url:     "http://www.gouldin.online"
-email:   "contact@gouldin.online"
+url:     "http://www.gouldin.net"
+email:   "contact@gouldin.net"
 
 # Build settings
 markdown: kramdown
